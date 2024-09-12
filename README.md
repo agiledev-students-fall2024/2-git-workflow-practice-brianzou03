@@ -17,3 +17,6 @@ in a practical manner - thus we do things such as internships and open source pr
 of the reasons why computer science as a field is so appealing to many people - because it goes
 beyond being merely theoretical and becomes applied, even at a university level. Being able to
 work on interesting projects at the company level helps bring longevity to interest in the field.
+
+### Comments from Others
+* I think this is a great article. It described the different career paths in software engineering really well, providing good insights for someone who is new to the field. I also like how you mentioned the "holistic" aspect of software engineering and the importance of applying knowledge in a CS degree to practice and side projects. - Jack Chen
